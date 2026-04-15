@@ -1,2 +1,2 @@
-# mi-proyecto-financiero
+# JEDB-FINANCE
 APP de gestion financiera integral
